@@ -1,0 +1,36 @@
+**********************************************************
+                         [ INTRODUCTION ] 
+*********************************************************
+
+Definition de PHP:
+PHP signifie HyperText Preprocessor.
+C'est un langage de de programmation de script,spécialement conçu pour le développement de sites webs.
+
+Avec le PHP on peut faire tout type de site:
+Des moteurs de recherche, réseaux sociaux, boutiques (e-commerce),des blogs etc...
+
+DIFFERENCE ENTRE 1 SITE STATIQUE ET 1 SITE DYNAMIQUE:
+Un site statique est un site codé en "dur" en HTML, CSS et JS.Les modifications de contenu doivent se faire dans le code.
+
+Un site dynamique est composé de trois éléments:
+- Un FRONT qui est le site visible par l'internaute.
+- Un BACK-OFFICE qui est réservé aux administrateurs.
+- Et une base de données (BDD) qui contient les contenus.Les contenus sont directement modifiables depuis le BACK-OFFICE sans avoir à modifier le code.
+
+------------------
+
+ARCHITECTURE CLIENT / SERVEUR:
+
+Définition d'un serveur web HTTP :la fonction principale d'un serveur web ou HTTP est de stocker et de délivrer des pages web en répondant à une requête HTTP.Cette requête est envoyée par le navigateur (= client) quand on saisit une URL.Le protocole de communication HyperText Transfer Protocol(HTTP) permet de dialoguer avec le logiciel client, généralement un navigateur web.
+
+------------------------------
+
+Conclusion :
+Le PHP est donc interprété côté serveur.
+
+Nous allons utiliser XAMPP =>
+X => compatible avec les différents systèmes (OS tels que Linux,Windows,Mac)
+A => Apache : notre serveur web
+M => MySQL : système de gestion de base de données.
+P => Interpréteur PHP
+p +> Language Perle(peu utilisé)
